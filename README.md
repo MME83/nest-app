@@ -1,7 +1,7 @@
-#TASK
-1. create entity with { name: string type, indexed: boolean type(true || false), other: any}
+#TASK (NODE JS + NEST JS + MongoDB)
+1. Make http POST method - create entity with { name: string type & required, indexed: boolean type(true || false) & required, other: any string & not required}
 2. make input validation
-3. create index by indexed field if it true and the name field is unique
+3. create index by 'indexed' field if it true with unique 'name' field
  
 
 <p align="center">
